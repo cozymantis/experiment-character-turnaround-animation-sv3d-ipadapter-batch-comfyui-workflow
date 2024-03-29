@@ -79,4 +79,11 @@ Please check licenses and terms of use for each of the nodes and models required
 
 The workflow should not be used to intentionally create or disseminate images that create hostile or alienating environments for people. This includes generating images that people would foreseeably find disturbing, distressing, or offensive; or content that propagates historical or current stereotypes.
 
+## A Better Turnaround ComfyUI Workflow
+
+Also check out our [improved character rotation worflow for ComfyUI](https://cozymantis.gumroad.com/l/cozy-character-turnaround-animate-comfyui-workflow?layout=profile)!
+
+![AnimateDiff_00007](https://github.com/cozymantis/experiment-character-turnaround-animation-sv3d-ipadapter-batch-comfyui-workflow/assets/5381731/e50d3fcf-c6fa-47f3-9dc2-5d9868492b1d)
+
+
 Made with 💚 by the [CozyMantis](https://cozymantis.gumroad.com/) squad.
