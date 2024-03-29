@@ -2,6 +2,8 @@
 
 **A CozyMantis experiment with the new IPAdapter Batch nodes for driving video**
 
+<img width="1442" alt="image" src="https://github.com/cozymantis/experiment-character-turnaround-animation-sv3d-ipadapter-batch-comfyui-workflow/assets/5381731/d90a2be4-e291-4292-949b-9957e94f6880">
+
 https://github.com/cozymantis/experiment-character-turnaround-animation-sv3d-ipadapter-batch-comfyui-workflow/assets/5381731/52e8b61e-5d29-4484-9e02-38ff18dafa1e
 
 ## Steps
