@@ -93,4 +93,5 @@ The workflow should not be used to intentionally create or disseminate images th
 
 Also check out our [improved character rotation worflow for ComfyUI](https://cozymantis.gumroad.com/l/cozy-character-turnaround-animate-comfyui-workflow?layout=profile)!
 
-![AnimateDiff_00007](https://github.com/cozymantis/experiment-character-turnaround-animation-sv3d-ipadapter-batch-comfyui-workflow/assets/5381731/e50d3fcf-c6fa-47f3-9dc2-5d9868492b1d)
+![AnimateDiff_00012](https://github.com/cozymantis/experiment-character-turnaround-animation-sv3d-ipadapter-batch-comfyui-workflow/assets/5381731/4aaa41f6-4644-4c15-b71c-6d161bb736ed)
+
